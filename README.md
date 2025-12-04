@@ -3,6 +3,10 @@
 **Emergence of Stable Massive Particles from Nonlinear Information Dynamics**  
 Numerical Simulation Framework & Reproducible Research Code
 
+## 📄 Official Research Paper
+The full peer-reviewed research paper and reproducible datasets are archived on Zenodo:
+
+🔗 https://doi.org/10.5281/zenodo.17817771
 ---
 
 ## 📄 Associated Scientific Paper
