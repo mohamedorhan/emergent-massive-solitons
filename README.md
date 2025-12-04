@@ -6,7 +6,12 @@ Numerical Simulation Framework & Reproducible Research Code
 ---
 
 ## 📄 Associated Scientific Paper
+## 📄 Official Research Paper
 
+**Emergence of Stable Massive Particles from Nonlinear Information Dynamics**
+
+🔗 **Read the full paper (PDF):**  
+[Click here to open the paper](Emergent_Massive_Solitons_from_Information_Fields.pdf)
 **Title:**  
 *Emergence of Stable Massive Particles from Nonlinear Information Dynamics: A Numerical Study*
 
@@ -37,7 +42,9 @@ This project demonstrates that:
 The framework establishes a **proof-of-principle for emergent mass from information dynamics**.
 
 ---
+## 📊 Key Numerical Result
 
+![1D Soliton Analysis](Figures/1d_analysis.png)
 ## 📂 Repository Structure
 
 emergent-massive-solitons/
